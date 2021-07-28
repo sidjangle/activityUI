@@ -1,6 +1,7 @@
-# activity
-
-A new Flutter project.
+# Activity App UI 
+Watch Full Tutorial video ON https://youtu.be/mZKRXzPfmT4 <br>
+If You Like it Share it and Subscribe the channel <b> Codetodo</b><br>
+<img src="screenshot/1.png" width="400px">
 
 ## Getting Started
 
